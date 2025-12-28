@@ -9,7 +9,7 @@ on:
 
 # Environment variables available to all jobs
 env:
-  DOCKER_IMAGE: your-dockerhub-username/cicd-demo-app
+  DOCKER_IMAGE: harisladoo/cicd-demo-app
   NODE_VERSION: '18'
 
 jobs:
